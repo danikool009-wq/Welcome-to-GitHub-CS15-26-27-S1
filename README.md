@@ -130,7 +130,7 @@ Then you Commit the changes. Commiting the changes updated the repository to sta
 
 ## 12. Click Push origin to upload your committed changes to GitHub
 
-Once changes have been committed, this only updates the repository on your computer. To update the changes on GitHub, you need to Push the changes.
+Once changes have been committed, this only updates the repository on your computer. To update the changes on GitHub, you  need to Push the changes.
 
 Push origin is how I can see your updated code! Make sure you push often!
 
